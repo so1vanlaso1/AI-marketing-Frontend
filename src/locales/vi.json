@@ -1,0 +1,19 @@
+{
+    "Greeting": {
+        "title": "Trí tuệ nhân tạo cho doanh nghiệp của bạn",
+        "description": "Cung cấp cho bạn các công cụ AI cho nhu cầu của bạn, giúp bạn tối ưu hóa hoạt động, nâng cao trải nghiệm khách hàng và thúc đẩy đổi mới trong lĩnh vực của bạn.",
+        "Read More": "Đọc thêm",
+        "Contact": "Liên hệ với chúng tôi"
+    },
+    "Navigation": {
+        "Home": "Trang chủ",
+        "Services": "Dịch vụ",
+        "About Us": "Về chúng tôi",
+        "Contact": "Liên hệ",
+        "Features": "Tính năng",
+        "Pricing": "Giá cả",
+        "Docs": "Tài liệu",
+        "Sign Up": "Đăng ký",
+        "Sign In": "Đăng nhập"
+    }
+}

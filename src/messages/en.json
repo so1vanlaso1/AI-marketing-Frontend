@@ -1,0 +1,18 @@
+{
+  "navbar": {
+    "features": "Features",
+    "pricing": "Pricing",
+    "docs": "Docs",
+    "users": "Users",
+    "projects": "Projects",
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "logout": "Logout"
+  },
+  "greeting": {
+    "title": "Artificial Intelligence for Your Business",
+    "description": "Provide you the AI tools for your need, helping you optimize operations, enhance customer experiences, and drive innovation in your industry.",
+    "readMore": "Read More",
+    "contactUs": "Contact Us"
+  }
+}

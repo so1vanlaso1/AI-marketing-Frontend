@@ -1,0 +1,18 @@
+{
+  "navbar": {
+    "features": "Tính năng",
+    "pricing": "Bảng giá",
+    "docs": "Tài liệu",
+    "users": "Người dùng",
+    "projects": "Dự án",
+    "signIn": "Đăng nhập",
+    "signUp": "Đăng ký",
+    "logout": "Đăng xuất"
+  },
+  "greeting": {
+    "title": "Trí Tuệ Nhân Tạo Cho Doanh Nghiệp Của Bạn",
+    "description": "Cung cấp cho bạn các công cụ AI theo nhu cầu, giúp bạn tối ưu hóa hoạt động, nâng cao trải nghiệm khách hàng và thúc đẩy đổi mới trong ngành của bạn.",
+    "readMore": "Đọc thêm",
+    "contactUs": "Liên hệ"
+  }
+}

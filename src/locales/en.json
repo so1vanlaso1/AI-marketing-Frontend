@@ -1,0 +1,19 @@
+{
+    "Greeting": {
+        "title": "Artificial Intelligence for Your Business",
+        "description": "Provide you the AI tools for your need, helping you optimize operations, enhance customer experience, and drive innovation in your industry.",
+        "Read More": "Read More",
+        "Contact": "Contact Us"
+    },
+    "Navigation": {
+        "Home": "Home",
+        "Services": "Services",
+        "About Us": "About Us",
+        "Contact": "Contact",
+        "Features": "Features",
+        "Pricing": "Pricing",
+        "Docs": "Docs",
+        "Sign Up": "Sign Up",
+        "Sign In": "Sign In"
+    }
+}

@@ -1,0 +1,58 @@
+@import "tailwindcss";
+
+/* Modern CSS Variables for Light/Dark Themes */
+:root {
+  --background: #fafdff;
+  --foreground: #23272f;
+  --accent: #3b82f6;
+  --accent-bg: #e8f0fe;
+  --border: #e0e7ef;
+  --radius: 16px;
+  --font-sans: 'Inter', 'Geist', 'Segoe UI', 'Arial', sans-serif;
+  --font-mono: 'Geist Mono', 'Fira Mono', 'Menlo', monospace;
+  --transition: 0.2s cubic-bezier(.4,0,.2,1);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #f3f6fa;
+    --foreground: #23272f;
+    --accent: #60a5fa;
+    --accent-bg: #e8f0fe;
+    --border: #d1d5db;
+  }
+}
+@keyframes heroFloat {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-12px); }
+}
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans);
+  min-height: 100vh;
+  transition: background var(--transition), color var(--transition);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+input, button, textarea, select {
+  font-family: inherit;
+  font-size: 1rem;
+  border-radius: var(--radius);
+  transition: box-shadow var(--transition), border-color var(--transition);
+}
+
+
+a:hover {
+  color: #1d4ed8;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+  background: var(--background);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--border);
+  border-radius: 8px;
+}
